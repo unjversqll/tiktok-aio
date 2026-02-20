@@ -10,7 +10,7 @@
 
 
 
-more stars = more updates like a username gen + checker ;)
+credits to @AdamBankz for the discord headers used for the user checker 
 
 
 I, the developer, do not encourage, support, or condone any misuse of this code. Users are solely responsible for how they choose to use this project. Any actions taken using this code are done at your own risk.
